@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/caarlos0/env"
+	"github.com/caarlos0/env/v11"
 	"gopkg.in/yaml.v3"
 )
 
